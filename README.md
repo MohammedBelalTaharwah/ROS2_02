@@ -6,6 +6,8 @@ week 2
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python](https://img.shields.io/badge/Python-3.10+-green.svg)](https://www.python.org/)
 
+## video link 
+[![شرح لمشروع الروبوت](https://img.youtube.com/vi/ABCDE12345/0.jpg)](https://youtu.be/O5AKu3aHcww)
 ## Overview
 
 The `robot_controller` package is a comprehensive ROS 2 implementation demonstrating publisher-subscriber architecture, command processing, and velocity control for robotic systems. This package provides three independent nodes that communicate through standardized ROS 2 topics, offering a foundation for robot state monitoring, command execution, and motion control.
